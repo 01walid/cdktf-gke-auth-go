@@ -2,6 +2,8 @@
 
 This is a meta-repository for the Golang version of [cdktf-gke-auth](https://github.com/01walid/cdktf-gke-auth) construct.
 
+This repo's Golang module content is auto-updated by [projen](https://github.com/projen/projen) via the github actions of the [parent repo](https://github.com/01walid/cdktf-gke-auth). 
+
 ## Example Golang usage
 
 ```go
